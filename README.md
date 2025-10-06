@@ -37,7 +37,7 @@ face_recognition by Adam Geitgey
 using a Linear SVM (scikit-learn)
 
 ## Documentation 📰
-[This](https://github.com/nevilparmar11/Attendance-Management-System-Using-Face-Recognition/tree/main/Documentation) folder contains all the related documents with UML Diagrams. 
+[This](https://github.com/saipranav1/Project_Attendance/tree/master/Documentation) folder contains all the related documents with UML Diagrams. 
  
 ## How To Run ?
 - clone it on your computer
