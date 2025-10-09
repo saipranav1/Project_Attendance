@@ -5,8 +5,8 @@ services:
     buildCommand: |
       apt-get update && apt-get install -y build-essential gfortran libatlas-base-dev libopenblas-dev cmake
       pip install --upgrade pip setuptools wheel
-      pip install numpy==1.23.5
-      pip install -r requirements.txt
+      pip install --only-binary=:all: numpy==1.23.5
+      pip install --no-cache-dir -r requirements.txt
     startCommand: gunicorn Attendance_System_Using_Face_Recognition.wsgi
     envVars:
       - key: DEBUG
