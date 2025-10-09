@@ -49,7 +49,18 @@ using a Linear SVM (scikit-learn)
 - Enjoy !
 
 ## UI 💻
-<img src="https://user-images.githubusercontent.com/48133426/116291303-0a138200-a7b2-11eb-963c-5ead9628ec90.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116292978-f6691b00-a7b3-11eb-9d81-b787f7d7e790.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116292839-cae63080-a7b3-11eb-980e-85efe6094f8d.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116292873-d5a0c580-a7b3-11eb-936e-cf810f3af326.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116292881-d9344c80-a7b3-11eb-8cee-ca441422c14d.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116292903-e3564b00-a7b3-11eb-9df5-17d22cfb976a.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116292925-e7826880-a7b3-11eb-9657-b1401f9caa9a.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116293007-ff59ec80-a7b3-11eb-8668-591289a589a5.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116293052-0bde4500-a7b4-11eb-84c1-bbefd8985b3c.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116293066-113b8f80-a7b4-11eb-8578-3f58bb055efd.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116293080-1567ad00-a7b4-11eb-87e0-b72b929e61af.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116293113-21536f00-a7b4-11eb-9157-d076affd789d.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116293119-244e5f80-a7b4-11eb-85d1-7461e17f56c6.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/48133426/116293707-c9693800-a7b4-11eb-8a22-217e89bb3a2f.png" width="45%"></img> 
+<img width="1920" height="1080" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/625cf008-3aca-460b-a545-36807689b4b2" /><img width="1920" height="965" alt="Screenshot 2022-11-15 181546" src="https://github.com/user-attachments/assets/9afdc025-d9ab-46ce-900a-5a88b6c980a5" /><img width="1920" height="1080" alt="Screenshot (341)" src="https://github.com/user-attachments/assets/add77f57-0909-4b7e-8df7-0578ac160acf" />
+<img width="1920" height="1080" alt="Screenshot (336)" src="https://github.com/user-attachments/assets/62096e97-24c3-46d5-8c3d-167f8e0fb335" />
+<img width="1920" height="688" alt="Screenshot 2022-11-15 182246" src="https://github.com/user-attachments/assets/f5657778-675b-4d1d-87a6-907c05216e49" />
+<img width="1920" height="1080" alt="Screenshot (333)" src="https://github.com/user-attachments/assets/537f0762-151a-4ced-a593-b0f12a4ebe89" />
+
+<img width="1920" height="690" alt="Screenshot 2022-11-15 at 12-30-26 Screenshot" src="https://github.com/user-attachments/assets/bc7d06bd-9d41-4d3f-84f4-e10c3d44aed3" />
+<img width="1920" height="1080" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/8c3337aa-eb25-4ab4-8307-ecee7d3415ed" />
+<img width="1920" height="1080" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/cb5de0c0-d432-4983-b7c8-403d7288180b" />
+
+
+
+ 
 
 ## Thank You
-- Author : [D Sai Pranav](https://nevilparmar.me)
+- Author : [D Sai Pranav](https://github.com/saipranav1)
