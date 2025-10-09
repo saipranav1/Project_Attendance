@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: face-attendance
+    env: python
+    buildCommand: |
+      apt-get update && apt-get install -y build-essential gfortran libatlas-base-dev libopenblas-dev cmake
+      pip install --upgrade pip setuptools wheel
+      pip install numpy==1.23.5
+      pip install -r requirements.txt
+    startCommand: gunicorn Attendance_System_Using_Face_Recognition.wsgi
+    envVars:
+      - key: DEBUG
+        value: False
+      - key: SECRET_KEY
+        generateValue: true
